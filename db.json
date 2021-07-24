@@ -2,10 +2,10 @@
   "users": [
     {
       "id": 1,
-      "fullName": "Ludwig Beethoven",
-      "email": "lb@gmail.com",
+      "fullName": "John Smith",
+      "email": "john@gmail.com",
       "social": "",
-      "password": "123"
+      "password": "Abcd123!"
     },
     {
       "id": 2,
@@ -16,21 +16,21 @@
     },
     {
       "id": 3,
-      "fullName": "Sebasatian Bach",
+      "fullName": "Susan Bach",
       "email": "sb@ymail.com",
       "social": "",
       "password": "123"
     },
     {
-      "fullName": "x",
-      "email": "x@yahoo.com",
+      "fullName": "Nina Jones",
+      "email": "nina@yahoo.com",
       "id": 4,
-      "password": "x"
+      "password": "niudhs1!"
     },
     {
-      "fullName": "y",
-      "email": "y@y.com",
-      "password": "y",
+      "fullName": "Yana Naisby",
+      "email": "yana@ymail.com",
+      "password": "Yu87jd%",
       "social": "w",
       "id": 5
     }
